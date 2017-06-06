@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "341646658166",
+    "firebase_url": "https://cleanskyiaf-bca5e.firebaseio.com",
+    "project_id": "cleanskyiaf-bca5e",
+    "storage_bucket": "cleanskyiaf-bca5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341646658166:android:9e6de4f3539fae95",
+        "android_client_info": {
+          "package_name": "com.example.ofek17.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341646658166-cmcq3b0pbjbelm5tmuvg7ue8fk2amno2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBs_fz1YCadHFBl_YrzziAnSu0cYPzl4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
